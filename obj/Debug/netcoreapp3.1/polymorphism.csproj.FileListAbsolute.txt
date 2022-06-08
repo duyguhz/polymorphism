@@ -1,0 +1,13 @@
+/Users/duyguhasanzade/Projects/090622/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.csproj.AssemblyReference.cache
+/Users/duyguhasanzade/Projects/090622/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/duyguhasanzade/Projects/090622/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.AssemblyInfoInputs.cache
+/Users/duyguhasanzade/Projects/090622/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.AssemblyInfo.cs
+/Users/duyguhasanzade/Projects/090622/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.csproj.CoreCompileInputs.cache
+/Users/duyguhasanzade/Projects/090622/polymorphism/bin/Debug/netcoreapp3.1/polymorphism.deps.json
+/Users/duyguhasanzade/Projects/090622/polymorphism/bin/Debug/netcoreapp3.1/polymorphism.runtimeconfig.json
+/Users/duyguhasanzade/Projects/090622/polymorphism/bin/Debug/netcoreapp3.1/polymorphism.runtimeconfig.dev.json
+/Users/duyguhasanzade/Projects/090622/polymorphism/bin/Debug/netcoreapp3.1/polymorphism.dll
+/Users/duyguhasanzade/Projects/090622/polymorphism/bin/Debug/netcoreapp3.1/polymorphism.pdb
+/Users/duyguhasanzade/Projects/090622/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.dll
+/Users/duyguhasanzade/Projects/090622/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.pdb
+/Users/duyguhasanzade/Projects/090622/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.genruntimeconfig.cache
